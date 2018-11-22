@@ -83,5 +83,3 @@ Each participant is free to build awesome products on provided APIs and services
 
 ![Code\n](.gitbook/assets/b6.png)
 
-
-
