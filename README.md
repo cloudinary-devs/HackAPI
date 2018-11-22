@@ -9,18 +9,20 @@
 Each participant is free to build awesome products on provided APIs and services but must meet certain criteria, including:
 
 * **Solutions must have a real-world use case.**    
-* **Participants must utilize at least one of the sponsors API. \(Cloudinary API\). Familiarize themselves with the API but trainers will be on sight to assist them with the integration**    
+* **Participants must utilize at least one of the sponsors API \(i.e. Cloudinary API\). Familiarize themselves with the API but trainers will be on sight to assist them with the integration**    
 * **Solutions will be open-sourced on GitHub.**    
 
-## \*\*\*\*[**Create a Free Cloudinary Account**](https://cloudinary.com/users/register/free)
+## [**Create a Free Cloudinary Account**](https://cloudinary.com/users/register/free)
 
 ![ https://cloudinary.com/users/register/free](.gitbook/assets/cloudinary_logo_for_white_bg-1.png)
+
+{% embed url="https://cloudinary.com/users/register/free" %}
 
 ## **Join the WhatsApp Group!**
 
 {% embed url="https://chat.whatsapp.com/KWmaQVmwNrYH17as38DG07/" caption="" %}
 
-## **Agenda**
+## **Event Programme**
 
 ### **Friday 30-11**
 
@@ -48,5 +50,38 @@ Each participant is free to build awesome products on provided APIs and services
 
 | **Participants will present the ideas they have  worked on and based on the judging the 1st 2nd and 3rd teams will be awarded.** | Presentations & Awards |
 | :--- | :---: |
+
+
+##                                                       Prizes
+
+###                                          _**\*\*  Best Overall Project - GHc 1000 \*\***_
+
+###                                                _**\*\* 1st Runner Up - GHc 600 \*\***_
+
+###                                               _**\*\* 2nd Runner Up - GHc 400 \*\***_
+
+## Partners & Sponsors
+
+![Github](.gitbook/assets/b1.png)
+
+{% embed url="https://www.github.com" %}
+
+![Cloudinary](.gitbook/assets/cloudinary_logo_for_white_bg-1.png)
+
+{% embed url="https://www.cloudinary.com" %}
+
+![.tech Domains](.gitbook/assets/b3.png)
+
+![Ashesi University Foundation](.gitbook/assets/b4.png)
+
+{% embed url="https://www.ashesi.org" %}
+
+  
+
+
+![Developer Student Club \(Ashesi University\)](.gitbook/assets/b5.png)
+
+![Code\n](.gitbook/assets/b6.png)
+
 
 
